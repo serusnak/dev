@@ -15,9 +15,9 @@ So I created this document to record my ideas to try experimenting with using Gi
 Ideas of how Github can be used:
 ----------------------------------
  
- -Write a novel (https://github.com/JJ/hoborg)
- -Living document that could be a collection of journal entries
- -A collection of web files like a Wordpress Theme
- -Biblographic document with a collection of citations with sources to assist with researching for papers
+* Write a novel (https://github.com/JJ/hoborg)
+* Living document that could be a collection of journal entries
+* A collection of web files like a Wordpress Theme
+* Biblographic document with a collection of citations with sources to assist with researching for papers
  
  
