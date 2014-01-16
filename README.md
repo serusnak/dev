@@ -25,7 +25,9 @@ So far, this readme.md require nothing, as in no dependencies.  But here, you ne
 
 Installation
 -------------
-Include instructions for how to install or use your project.  Make sure to provide links for quick download access and referral to third party vendors if people need to download additional files outside your project.  Especially keep this part up to date.
+Include instructions for how to install or use your project.  Make sure to provide links for quick download access and referral to third party vendors if people need to download additional files outside your project.  It can be broken down into different sections as shown in the example under Tech listed above.
+
+Especially keep this part up to date!
 
 License
 -------
