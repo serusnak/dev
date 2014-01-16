@@ -29,6 +29,10 @@ Include instructions for how to install or use your project.  Make sure to provi
 
 Especially keep this part up to date!
 
+Updates and Bug Fixes
+----------------------
+Refer to /dev/news.md for updates and to read about fixes.
+
 License
 -------
 http://choosealicense.com/
@@ -45,5 +49,14 @@ Copyright © 2014 YourName <your@email.com>
 This work is free. You can redistribute it and/or modify it under the
 terms of the Do What The Fuck You Want To Public License, Version 2,
 as published by Sam Hocevar. See the COPYING.md file for more details.
+
+Contact
+--------
+
+You are welcome to:
+* submit suggestions and bug reports at:  (list your github repo URL)
+* send a pull request on:  (insert github repo URL)
+
+You will want to be clear how you can be contacted and where pull requests should be sent.
 
 
